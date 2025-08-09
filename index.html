@@ -7,10 +7,18 @@
 <style>
   body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #4e54c8, #8f94fb);
     margin: 0;
     padding: 0;
     color: white;
+    background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1470&q=80') no-repeat center center fixed;
+    background-size: cover;
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    top:0; left:0; right:0; bottom:0;
+    background-color: rgba(0,0,0,0.6);
+    z-index: -1;
   }
   header {
     text-align: center;
@@ -22,7 +30,7 @@
   }
   main {
     max-width: 700px;
-    background: rgba(0,0,0,0.4);
+    background: rgba(0,0,0,0.5);
     margin: auto;
     padding: 30px;
     border-radius: 10px;
@@ -136,3 +144,4 @@
 </script>
 </body>
 </html>
+
