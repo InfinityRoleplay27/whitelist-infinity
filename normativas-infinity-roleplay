@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Normativas y Conceptos - Infinity Roleplay</title>
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #121212;
+        color: #eee;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+    }
+    header {
+        background: #4a90e2;
+        padding: 25px 20px;
+        text-align: center;
+        font-size: 2.5rem;
+        font-weight: 700;
+        letter-spacing: 3px;
+        color: white;
+        box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+    }
+    nav {
+        background: #222;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 10px 0;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+    nav a {
+        color: #bbb;
+        text-decoration: none;
+        padding: 8px 16px;
+        border-radius: 5px;
+        transition: background-color 0.3s, color 0.3s;
+        font-weight: 600;
+    }
+    nav a:hover {
+        background-color: #4a90e2;
+        color: white;
+    }
+    main {
+        max-width: 900px;
+        margin: 30px auto;
+        padding: 0 20px 50px;
+    }
+    h2 {
+        border-bottom: 3px solid #4a90e2;
+        padding-bottom: 10px;
+        margin-top: 50px;
+        color: #4a90e2;
+    }
+    section {
+        margin-bottom: 30px;
+    }
+    ul {
+        list-style-type: disc;
+        margin-left: 20px;
+    }
+    li {
+        margin-bottom: 8px;
+    }
+    code {
+        background-color: #333;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-family: monospace;
+        font-size: 0.9rem;
+    }
+    footer {
+        background: #222;
+        color: #888;
+        text-align: center;
+        padding: 20px 10px;
+        font-size: 0.9rem;
+        margin-top: 60px;
+        user-select: none;
+    }
+    @media (max-width: 600px) {
+        header {
+            font-size: 1.8rem;
+        }
+        nav a {
+            padding: 6px 10px;
+            font-size: 0.9rem;
+        }
+    }
+</style>
+</head>
+<body>
+<header>Infinity Roleplay - Normativas y Conceptos</header>
+<nav>
+    <a href="#normativas-generales">Normativas Generales</a>
+    <a href="#conceptos-basicos">Conceptos Básicos</a>
+    <a href="#rol-avanzado">Rol Avanzado</a>
+    <a href="#reglas-facciones">Reglas de Facciones</a>
+    <a href="#castigos-y-sanciones">Castigos y Sanciones</a>
+    <a href="#faq">Preguntas Frecuentes</a>
+    <a href="#consejos">Consejos para RP</a>
+</nav>
+<main>
+<section id="normativas-generales">
+    <h2>Normativas Generales</h2>
+    <ul>
+        <li>Respetar a todos los jugadores, staff y comunidad en todo momento.</li>
+        <li>Prohibido el uso de hacks, cheats o cualquier tipo de herramienta que otorgue ventaja ilegal.</li>
+        <li>Está prohibido el metagaming: usar información obtenida fuera del personaje para tomar decisiones dentro del juego.</li>
+        <li>Evitar powergaming: forzar acciones que impiden la reacción o respuesta lógica de otros jugadores.</li>
+        <li>Respeta los límites de rol y evita situaciones irreales o absurdas.</li>
+        <li>Está prohibido el lenguaje ofensivo, discriminatorio o que incite al odio.</li>
+        <li>Reporta cualquier abuso o incumplimiento al equipo de staff, siempre con pruebas.</li>
+        <li>Usa el chat OOC (fuera de personaje) para cuestiones que no correspondan al rol.</li>
+    </ul>
+</section>
+<section id="conceptos-basicos">
+    <h2>Conceptos Básicos de Roleplay</h2>
+    <p>Para mantener la inmersión y la coherencia en el servidor, es importante entender ciertos términos y conceptos básicos:</p>
+    <ul>
+        <li><strong>IC (In Character):</strong> Todo lo que hace y dice tu personaje dentro del rol.</li>
+        <li><strong>OOC (Out Of Character):</strong> Información o comunicación fuera del personaje.</li>
+        <li><strong>Metagaming:</strong> Uso de información OOC para influir en decisiones IC.</li>
+        <li><strong>Powergaming:</strong> Realizar acciones sin darle oportunidad a otros jugadores de responder.</li>
+        <li><strong>Failrp:</strong> Realizar acciones irreales o ilógicas que rompen la inmersión.</li>
+        <li><strong>Jail:</strong> Castigo temporal que limita la libertad del personaje por incumplimiento de normas.</li>
+        <li><strong>Roleplay 911:</strong> Llamadas de emergencia dentro del servidor, respetar protocolos y tiempos.</li>
+    </ul>
+</section>
+<section id="rol-avanzado">
+    <h2>Rol Avanzado y Buenas Prácticas</h2>
+    <ul>
+        <li>Siempre interpreta a tu personaje de forma coherente y realista según su historia y personalidad.</li>
+        <li>Evita conflictos personales OOC dentro del rol para mantener un ambiente sano.</li>
+        <li>Respeta las decisiones de los demás jugadores y evita imponer tu voluntad en la historia.</li>
+        <li>Usa comandos de acciones para describir movimientos, gestos y emociones (ejemplo: <code>/me saca un cigarro</code>).</li>
+        <li>Participa activamente en eventos y actividades organizadas por el servidor para enriquecer el rol.</li>
+        <li>Evita abusar de recursos o habilidades especiales que tu personaje pueda tener.</li>
+        <li>Consulta siempre con el staff ante dudas sobre situaciones de rol complejas.</li>
+    </ul>
+</section>
+<section id="reglas-facciones">
+    <h2>Reglas Específicas para Facciones</h2>
+    <h3>Facciones Policiales</h3>
+    <ul>
+        <li>Respetar cadena de mando y seguir órdenes de superiores.</li>
+        <li>Proceder con cautela en detenciones y siempre justificar acciones.</li>
+        <li>No abusar de la autoridad para beneficio personal.</li>
+        <li>Realizar reportes claros y detallados de eventos importantes.</li>
+        <li>Evitar conflictos OOC con civiles o delincuentes.</li>
+    </ul>
+    <h3>Facciones Delictivas</h3>
+    <ul>
+        <li>Planificar acciones delictivas con coherencia y rol previo.</li>
+        <li>No matar sin motivo o sin rol previo.</li>
+        <li>Evitar abusos o powergaming en enfrentamientos.</li>
+        <li>Respetar reglas de rol en negociaciones y acuerdos con otras facciones.</li>
+        <li>No perjudicar la experiencia de otros jugadores sin motivo válido.</li>
+    </ul>
+    <h3>Facciones Médicas</h3>
+    <ul>
+        <li>Atender emergencias y mantener la calma en situaciones críticas.</li>
+        <li>Comunicar claramente estado de pacientes y procedimientos.</li>
+        <li>Respetar los protocolos médicos y actuar según las habilidades de tu personaje.</li>
+        <li>Colaborar con otras facciones para resolver conflictos o emergencias.</li>
+    </ul>
+</section>
+<section id="castigos-y-sanciones">
+    <h2>Castigos y Sanciones</h2>
+    <p>El incumplimiento de las normas puede derivar en las siguientes sanciones, dependiendo de la gravedad:</p>
+    <ul>
+        <li><strong>Advertencia:</strong> Aviso formal para corregir conducta.</li>
+        <li><strong>Jail:</strong> Tiempo limitado en prisión dentro del juego.</li>
+        <li><strong>Baneo temporal:</strong> Expulsión del servidor por tiempo limitado.</li>
+        <li><strong>Baneo permanente:</strong> Expulsión definitiva del servidor.</li>
+    </ul>
+    <p>El staff se reserva el derecho de aplicar sanciones según las pruebas y contexto. Se recomienda apelar con respeto y pruebas claras si se considera injusto.</p>
+</section>
+<section id="faq">
+    <h2>Preguntas Frecuentes (FAQ)</h2>
+    <h3>¿Qué es el metagaming y por qué está prohibido?</h3>
+    <p>El metagaming es usar información que tu personaje no debería saber para obtener ventaja. Está prohibido porque rompe la inmersión y da ventaja injusta.</p>
+    <h3>¿Cómo reporto un abuso o problema?</h3>
+    <p>Debes recopilar pruebas (screenshots, videos, logs) y enviarlas al staff por los canales oficiales de reporte.</p>
+    <h3>¿Puedo cambiar de facción cuando quiera?</h3>
+    <p>Depende de las reglas del servidor. Generalmente, hay restricciones para evitar abusos, consulta con el staff.</p>
+    <h3>¿Qué hago si otro jugador me falta al respeto?</h3>
+    <p>No respondas con agresividad dentro ni fuera del rol. Reporta el incidente al staff con pruebas.</p>
+</section>
+<section id="consejos">
+    <h2>Consejos para un Buen Roleplay</h2>
+    <ul>
+        <li>Escucha y adapta tus acciones a la historia común, no solo a la tuya.</li>
+        <li>Mantén una actitud positiva y respetuosa con los demás jugadores.</li>
+        <li>Evita conflictos personales dentro del rol que puedan afectar la experiencia.</li>
+        <li>Participa en eventos y crea historias interesantes con otros jugadores.</li>
+        <li>Cuida los detalles para que tu personaje sea creíble y coherente.</li>
+        <li>Practica la paciencia y la empatía, el buen rol se construye entre todos.</li>
+    </ul>
+</section>
+</main>
+<footer>
+    &copy; 2025 Infinity Roleplay - Todos los derechos reservados
+</footer>
+</body>
+</html>
